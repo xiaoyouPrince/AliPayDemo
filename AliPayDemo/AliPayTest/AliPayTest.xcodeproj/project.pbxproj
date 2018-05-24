@@ -650,7 +650,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/AliPayTest/thirdPart",
-					"$(PROJECT_DIR)/AliPayTest/AliPayTest/openssl",
+					"$(PROJECT_DIR)/AliPayTest/thirdPart/openssl",
 				);
 				INFOPLIST_FILE = AliPayTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -681,7 +681,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/AliPayTest/thirdPart",
-					"$(PROJECT_DIR)/AliPayTest/AliPayTest/openssl",
+					"$(PROJECT_DIR)/AliPayTest/thirdPart/openssl",
 				);
 				INFOPLIST_FILE = AliPayTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
